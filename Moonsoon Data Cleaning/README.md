@@ -58,6 +58,10 @@ The last step is a side-by-side comparison of the means, standard deviations, an
 
 **Results Summary**
 This summary tells the final story:
-Imputation Method,Avg. Change in Mean,Preservation of Std Dev,Model R2 Score
-Mean Imputation,≈0.03,Significantly Decreased,0.97
-Iterative Imputation,≈0.005,Excellent (Better Preserved),0.99
+| Imputation Method | Avg. Change in Mean | Preservation of Std Dev | Model $R^2$ Score |
+| :---: | :---: | :---: | :---: |
+| **Mean Imputation** | $\approx \mathbf{0.03}$ | **Significantly Decreased** | $\mathbf{0.97}$ |
+| **Iterative Imputation** | $\approx \mathbf{0.005}$ | **Excellent** (Better Preserved) | $\mathbf{0.99}$ |
+
+Conclusion: The small change in the standard deviation (just 0.005 on average) and the resulting R 
+2 score of 0.99 clearly show that Iterative Imputation was the best approach for handling the missing values in this dataset.
