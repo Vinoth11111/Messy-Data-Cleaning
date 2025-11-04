@@ -1,5 +1,5 @@
 **Indian Rainfall Prediction Model: A Missing Value Case Study**
-**Overview**
+Overview
 Hey there! This notebook is basically a hands-on walk-through of a real-world data science problem: dealing with messy data. Specifically, we're focusing on handling missing values in a historical Indian rainfall dataset.
 
 To make sure our missing value strategies actually work and don't ruin the data's underlying patterns, I developed a simple predictive model. The modeling step isn't the final product here; it's the acid test to see which imputation method gives us the most reliable downstream results.
