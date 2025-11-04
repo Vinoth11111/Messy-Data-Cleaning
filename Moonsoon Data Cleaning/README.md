@@ -58,8 +58,6 @@ The last step is a side-by-side comparison of the means, standard deviations, an
 
 **Results Summary**
 This summary tells the final story:
-Imputation Method	Avg. Change in Mean	Preservation of Std Dev	Model R 
-2
-  Score
-Mean Imputation	≈0.03	Significantly Decreased	0.97
-Iterative Imputation	≈0.005	Excellent (Better Preserved)	0.99
+Imputation Method,Avg. Change in Mean,Preservation of Std Dev,Model R2 Score
+Mean Imputation,≈0.03,Significantly Decreased,0.97
+Iterative Imputation,≈0.005,Excellent (Better Preserved),0.99
